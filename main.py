@@ -35,14 +35,17 @@ def run_full_pipeline():
     start_time = datetime.now()
 
     # 1. Ambil teks dari modul vision-language
-    text, txt_path = generate_text_from_camera()
+    text, txt_path, timings = generate_text_from_camera(return_timings=True)
     if not text:
         print("[PIPELINE] Gagal di tahap vision/LLM. Stop.")
         print("================= PIPELINE GAGAL =================\n")
         return
 
     # 2. Terjemahkan ke Bahasa Indonesia (fallback ke teks asli jika gagal)
+    translation_start = datetime.now()
     tts_text, translated = translate_text_to_indonesian(text)
+    translation_end = datetime.now()
+    translation_duration = (translation_end - translation_start).total_seconds()
     if translated:
         print("[PIPELINE] Teks berhasil diterjemahkan ke Bahasa Indonesia.")
         persist_translated_text(txt_path, tts_text)
@@ -54,15 +57,24 @@ def run_full_pipeline():
         voice = load_voice()
 
     # 4. TTS ke .wav
+    tts_start = datetime.now()
     wav_path = tts_from_text(tts_text, voice=voice)
+    tts_end = datetime.now()
+    tts_duration = (tts_end - tts_start).total_seconds()
     if not wav_path:
         print("[PIPELINE] Gagal di tahap TTS. Stop.")
         print("================= PIPELINE GAGAL =================\n")
         return
 
     # 5. Catat latensi dan play audio
-    speech_start_time = datetime.now()
-    log_latency(start_time, speech_start_time, context=wav_path or "")
+    speech_start_time = tts_end
+    stage_durations = {
+        "capture": timings.get("capture_seconds"),
+        "vision_generate": timings.get("vision_seconds"),
+        "translation": translation_duration,
+        "tts": tts_duration,
+    }
+    log_latency(start_time, speech_start_time, context=wav_path or "", stage_durations=stage_durations)
     play_wav(wav_path)
 
     print("================= PIPELINE SELESAI =================\n")

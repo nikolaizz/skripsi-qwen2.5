@@ -1,4 +1,0 @@
-start_time=2025-11-25T03:29:19.623508
-speech_start_time=2025-11-25T03:29:48.693182
-latency_seconds=29.070
-context=audios\output_20251125_032947.wav

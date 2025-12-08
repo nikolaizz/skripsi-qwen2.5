@@ -74,13 +74,16 @@ class LocalPipeline:
         print("\n================= PIPELINE WINDOWS DIMULAI =================")
         start_time = datetime.now()
 
-        text, txt_path = generate_text_from_camera()
+        text, txt_path, timings = generate_text_from_camera(return_timings=True)
         if not text:
             print("[PIPELINE] Gagal mendapatkan teks dari model visi.")
             print("================= PIPELINE WINDOWS GAGAL =================\n")
             return False
 
+        translation_start = datetime.now()
         spoken_text, translated = translate_text_to_indonesian(text)
+        translation_end = datetime.now()
+        translation_duration = (translation_end - translation_start).total_seconds()
         if translated:
             print("[PIPELINE] Teks berhasil diterjemahkan ke Bahasa Indonesia.")
             persist_translated_text(txt_path, spoken_text)
@@ -90,14 +93,23 @@ class LocalPipeline:
         if self.voice is None:
             self.voice = load_voice()
 
+        tts_start = datetime.now()
         wav_path = tts_from_text(spoken_text, voice=self.voice)
+        tts_end = datetime.now()
+        tts_duration = (tts_end - tts_start).total_seconds()
         if not wav_path:
             print("[PIPELINE] Tahap TTS gagal.")
             print("================= PIPELINE WINDOWS GAGAL =================\n")
             return False
 
-        speech_start_time = datetime.now()
-        log_latency(start_time, speech_start_time, context=wav_path or "")
+        speech_start_time = tts_end
+        stage_durations = {
+            "capture": timings.get("capture_seconds"),
+            "vision_generate": timings.get("vision_seconds"),
+            "translation": translation_duration,
+            "tts": tts_duration,
+        }
+        log_latency(start_time, speech_start_time, context=wav_path or "", stage_durations=stage_durations)
         play_wav_windows(wav_path)
         print("================= PIPELINE WINDOWS SELESAI =================\n")
         return True

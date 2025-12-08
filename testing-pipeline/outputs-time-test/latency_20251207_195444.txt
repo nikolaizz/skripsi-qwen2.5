@@ -1,0 +1,7 @@
+start_time=2025-12-07T19:54:10.758647
+speech_start_time=2025-12-07T19:54:44.756472
+latency_seconds=33.998
+vision_generate_seconds=32.051
+translation_seconds=0.299
+tts_seconds=1.648
+context=F:\Coolyeah\Semester 7\Skripsi\source-code\main-pipeline\testing-pipeline\audios-test\output_20251207_195443.wav

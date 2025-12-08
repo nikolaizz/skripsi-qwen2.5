@@ -17,9 +17,27 @@ TGT_LANG_CODE = os.getenv("ARGOS_TGT_LANG", "id")
 _translation_cache = None
 _warned_unavailable = False
 _REPLACEMENT_PATTERNS = [
-    (re.compile(r"\borang cacat visual\b", re.IGNORECASE), "tunanetra"),
+    (re.compile(r"\borang (cacat visual|cacat penglihatan)\b", re.IGNORECASE), "tunanetra"),
+    (re.compile(r"\bspaced\b", re.IGNORECASE), "berjarak"),
+    (re.compile(r"\bwell-cahaya\b", re.IGNORECASE), "terang"),
+    (re.compile(r"\bdaerah\b", re.IGNORECASE), "area"),
+    (re.compile(r"\bsebagai\b", re.IGNORECASE), "karena"),
+    (re.compile(r"\bbaik\s*[- ]?\s*ditandai\b", re.IGNORECASE), "terlihat dengan jelas"),
+    (re.compile(r"\bpengaturan\b", re.IGNORECASE), "latar"),
+    (re.compile(r"^Gambar\b", re.IGNORECASE), "Di depan"),
+    (re.compile(r"\bmenunjukkan\b", re.IGNORECASE), "terlihat"),
+    (re.compile(r"\bbahaya langsung\b", re.IGNORECASE), "bahaya secara langsung"),
+    (re.compile(r"\buneven\b", re.IGNORECASE), "tidak rata"),
+    (re.compile(r"\badegan\b", re.IGNORECASE), "situasi"),
+    (re.compile(r"\bbaik-menyala\b", re.IGNORECASE), "terang"),
+    (re.compile(r"\blantai dipoles\b", re.IGNORECASE), "lantai mengkilap"),
+    (re.compile(r"\bpaved\b", re.IGNORECASE), "pavling"),
+    (re.compile(r"\bkondisi miskin\b", re.IGNORECASE), "kondisi buruk"),
+    (re.compile(r"\blangkah-langkah\b", re.IGNORECASE), "tangga"),
+    (re.compile(r"\bitem\b", re.IGNORECASE), "benda"),
+    (re.compile(r"\bjelas ditandai\b", re.IGNORECASE), "terlihat dengan jelas"),
+    (re.compile(r"\blantainya miring\b", re.IGNORECASE), "lantainya keramik"),
 ]
-
 
 def _get_translation() -> Optional[object]:
     """

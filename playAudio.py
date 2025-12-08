@@ -2,7 +2,7 @@ import os
 import subprocess
 
 AUDIO_DIR = "audios"
-DEFAULT_DEVICE = "plughw:1,0"  # sesuaikan kalau device ALSA beda
+DEFAULT_DEVICE = "default"
 
 
 def get_latest_wav(directory=AUDIO_DIR):
