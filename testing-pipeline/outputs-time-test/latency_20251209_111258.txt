@@ -1,0 +1,7 @@
+start_time=2025-12-09T11:12:44.522093
+speech_start_time=2025-12-09T11:12:58.090125
+latency_seconds=13.568
+vision_generate_seconds=8.226
+translation_seconds=3.736
+tts_seconds=1.605
+context=/home/skripsibro/qwenikol/skripsi-qwen2.5/testing-pipeline/audios-test/output_20251209_111256.wav
