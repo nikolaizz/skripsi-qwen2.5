@@ -6,6 +6,7 @@
     { "caption": "Lantai ruangan berwarna putih mengkilap, dinding dan pintu kaca tampak di latar belakang, serta terdapat lift hitam. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat lorong gedung modern dengan kaca besar. Ada beberapa orang lewat. Terdapat lift di sisi kiri. Tidak ada bahaya yang terlihat untuk tunanetra." }
   ],
+
   "(2)": [
     { "caption": "Seorang pria berdiri di depan lift sambil memegang minuman. Ada tempat sampah di dekatnya. Tidak ada bahaya berarti." },
     { "caption": "Lift berada di depan dengan karpet kecil di lantai. Orang menunggu lift. Waspadai lantai berubah tinggi di area karpet." },
@@ -13,6 +14,7 @@
     { "caption": "Ada tempat sampah baja dekat lift dan dua keset merah di lantai. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat seseorang berdiri di depan lift dengan keset merah. Terdapat tong sampah di tengahnya. Tidak ada bahaya yang terlihat untuk tunanetra." }
   ],
+
   "(3)": [
     { "caption": "Area tunggu yang luas dengan kursi dan pagar kaca. Seorang pria duduk menggunakan ponsel. Tidak tampak bahaya langsung." },
     { "caption": "Lorong terang dengan banyak kaca dan kursi. Seseorang duduk di tepi pagar. Hati-hati agar tidak menabrak kursi." },
@@ -20,6 +22,7 @@
     { "caption": "Beberapa kursi tunggu baja tersedia, dan satu pria sedang duduk sambil melihat ponselnya. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat ruang tunggu modern yang luas. Ada seseorang yang duduk di kursi. Ruangan memiliki pencahayaan yang terang. Tidak ada bahaya yang terlihat untuk tunanetra." }
   ],
+
   "(4)": [
     { "caption": "Ada rambu ‘lantai licin’ berwarna kuning di lorong. Di dekatnya terdapat pintu dan kotak hydrant merah. Lantai berpotensi licin." },
     { "caption": "Koridor dengan tanda peringatan lantai basah. Ada hydrant dan beberapa pintu. Bahaya tergelincir." },
@@ -27,6 +30,7 @@
     { "caption": "Di depan pintu masuk, ada tanda bahaya kuning 'WET FLOOR' yang menunjukkan adanya bahaya terpeleset atau jatuh bagi tunanetra." },
     { "caption": "Terlihat lorong dengan kotak hidran pemadam kebakaran merah. Ada tanda bahwa lantai basah yang memiliki resiko tergelincir bagi tunanetra." }
   ],
+
   "(5)": [
     { "caption": "Area lobi dengan meja informasi di tengah. Petugas duduk dan bekerja. Tidak tampak bahaya besar." },
     { "caption": "Meja layanan berada di lobi luas. Beberapa orang bekerja di balik meja. Waspadai meja besar di tengah jalur." },
@@ -34,6 +38,7 @@
     { "caption": "Area ini memiliki pencahayaan dekoratif berwarna kuning pada panel dinding. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat area lobi modern dengan meja putih. Ada orang di balik meja. Area memiliki pencahayaan yang terang. Tidak ada bahaya untuk tunanetra." }
   ],
+
   "(6)": [
     { "caption": "Dua orang berjalan di koridor luar. Ada meja dan orang duduk di depan. Waspadai tiang-tiang di sepanjang jalur." },
     { "caption": "Koridor dengan banyak tiang dan tanaman di samping. Beberapa orang duduk di ujung. Hati-hati menabrak tiang." },
@@ -41,6 +46,7 @@
     { "caption": "Di sisi kiri ada taman dengan batu-batu kerikil putih. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat dua orang sedang berjalan di lorong. Ada batu kerikil putih di sisi kiri. Tidak ada bahaya yang terlihat untuk tunanetra." }
   ],
+
   "(7)": [
     { "caption": "Lorong dengan tangga dan ramp basah. Ada tanda lantai licin. Bahaya tergelincir." },
     { "caption": "Seorang pria berjalan turun di area yang basah. Tanda peringatan diletakkan di depan. Lantai sangat licin." },
@@ -48,6 +54,7 @@
     { "caption": "Terdapat tanda peringatan kuning 'CAUTION WET FLOOR' di lantai. Ini menunjukkan bahaya terpeleset atau jatuh yang tinggi." },
     { "caption": "Terlihat lorong dengan jalan yang basah. Ada orang yang sedang berjalan di lorong. Lantai basah dapat menimbulkan bahaya tergelincir untuk tunanetra." }
   ],
+
   "(8)": [
     { "caption": "Halaman depan gedung GKM dengan banyak pohon. Beberapa orang duduk di teras. Tidak ada bahaya besar, namun lantai luar basah." },
     { "caption": "Tampak gedung dengan tulisan GKM FILKOM. Tanah basah karena hujan. Waspadai permukaan licin." },
@@ -55,6 +62,7 @@
     { "caption": "Beberapa orang sedang duduk-duduk di lantai teras depan gedung. Lantai halaman tampak basah. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat pintu masuk gedung bertuliskan GKM FILKOM. Ada beberapa orang duduk di dalamnya. Tidak ada bahaya yang terlihat untuk tunanetra." }
   ],
+
   "(9)": [
     { "caption": "Banyak mahasiswa duduk di lantai dekat tangga. Ada pilar dan barang-barang di sekitar. Bahaya tersandung." },
     { "caption": "Area dalam gedung dengan kerumunan yang duduk di lantai. Ruang agak sempit. Hati-hati menabrak orang." },
@@ -62,6 +70,7 @@
     { "caption": "Di latar belakang terdapat tangga menuju lantai atas dan poster-poster besar. Tidak ada bahaya khusus yang terlihat." },
     { "caption": "Terlihat beberapa orang duduk di lantai sebuah gedung. Ada tangga di latar belakang. Tidak ada bahaya yang terlihat untuk tunanetra." }
   ],
+
   "(10)": [
     { "caption": "Warung kecil terbuka dengan barang dagangan. Lantai luar basah dan tidak rata. Bahaya terpeleset." },
     { "caption": "Toko makanan di area terbuka. Ada kardus dan barang di lantai. Lantai basah, risiko tergelincir." },
@@ -69,6 +78,7 @@
     { "caption": "Terdapat banyak kardus dan barang-barang berserakan di sekitar kios. Genangan air di lantai dan banyak barang di luar kios dapat menjadi potensi bahaya tersandung atau lantai licin." },
     { "caption": "Terlihat toko warung dengan banyak barang di dalamnya. Terdapat pohon di luar nya. Terdapat resiko tergelincir karena lantai yang terlihat licin." }
   ],
+
   "(11)": [
     { "caption": "Beberapa orang duduk dan makan di area terbuka. Ada jalur batu di tengah lantai. Hati-hati karena lantai basah dan tidak rata." },
     { "caption": "Tempat makan dengan meja di sisi kanan. Jalur kerikil dan lantai licin terlihat. Bahaya tersandung." },
@@ -76,6 +86,7 @@
     { "caption": "Di sisi kiri terdapat selokan terbuka. Selokan terbuka di lantai dapat menjadi potensi bahaya tersandung atau terjatuh yang serius bagi tunanetra." },
     { "caption": "Terlihat ruang makan dengan meja dan kursi yang terpisah. Lantai memiliki batu kerikil putih kecil. Tidak ada bahaya secara langsung untuk tunanetra." }
   ],
+
   "(12)": [
     { "caption": "Jalan berbatu dengan motor parkir di samping. Banyak batu yang rusak dan berlubang. Bahaya tersandung." },
     { "caption": "Koridor luar dengan permukaan paving tidak rata. Motor diparkir di pinggir. Risiko jatuh sangat tinggi." },
@@ -83,6 +94,7 @@
     { "caption": "Ada cekungan dalam dan pecah di tengah jalur yang dapat menjadi bahaya tersandung atau kaki terperosok yang serius bagi tunanetra." },
     { "caption": "Terlihat jalanan paving blok yang tidak rata. Ada beberapa motor diparkir di sisi-sisinya. Terdapat bahaya tersandung karena cekungan pada jalan." }
   ],
+
   "(13)": [
     { "caption": "Area kampus dengan jalan basah dan berlubang. Ada genangan besar. Bahaya terpeleset dan masuk lubang." },
     { "caption": "Jalan rusak di dekat gedung. Banyak air dan paving terangkat. Sangat berbahaya untuk pejalan kaki." },
@@ -90,6 +102,7 @@
     { "caption": "Permukaan jalan sangat tidak rata dan penuh lubang. Kondisi ini dapat menjadi bahaya tersandung, terperosok, dan licin yang sangat berbahaya bagi tunanetra." },
     { "caption": "Terlihat jalan basah yang rusak dan berlubang. Ada pohon dan bangunan di latar belakang. Lubang dan jalanan yang basah dapat menimbulkan resiko tergelincir bagi tunanetra." }
   ],
+
   "(14)": [
     { "caption": "Area konstruksi dengan tumpukan batu dan gerobak. Tanah basah dan tidak rata. Bahaya tersandung dan terpeleset." },
     { "caption": "Lahan proyek dengan bata berserakan. Lantai licin karena hujan. Hati-hati banyak hambatan." },
@@ -97,6 +110,7 @@
     { "caption": "Banyak material konstruksi dan tanah berserakan di tanah. Hal ini menimbulkan bahaya tersandung dan permukaan yang sangat tidak rata bagi tunanetra." },
     { "caption": "Terlihat area pembangunan atau konstruksi dengan tumpukan batu berserakan. Ini dapat menimbulkan bahaya tersandung bagi tunanetra." }
   ],
+
   "(15)": [
     { "caption": "Jalan basah dengan mobil dan motor lewat. Ada palang parkir besar di depan. Bahaya tertabrak kendaraan." },
     { "caption": "Area depan gedung saat hujan. Motor melaju di kiri dan mobil di kanan. Waspadai jalan licin dan lalu lintas." },
@@ -104,6 +118,7 @@
     { "caption": "Jalanan terlihat basah setelah hujan dan terdapat portal atau palang berwarna biru dan putih. Tidak ada bahaya khusus yang terlihat pada permukaan jalan." },
     { "caption": "Terlihat jalan basah dengan mobil dan motor lewat. Ada pohon dan bangunan di latar belakang. Ada palang biru di sisi jalan. Tidak ada bahaya secara langsung untuk tunanetra." }
   ],
+
   "(16)": [
     { "caption": "Jalur pejalan kaki basah dengan simbol kursi roda. Ada genangan kecil. Lantai licin dan berbahaya." },
     { "caption": "Trotoar basah di samping taman. Air menggenang di beberapa titik. Hati-hati tergelincir." },
@@ -111,6 +126,7 @@
     { "caption": "Lantai trotoar dan jalanan tampak basah. Tidak ada bahaya khusus yang terlihat, tetapi area basah selalu berpotensi lantai licin." },
     { "caption": "Terlihat trotor basah dengan simbol kursi roda. Trotoar terlihat basah dengan genangan air kecil. Terdapat potensi tergelincir karena jalur basah." }
   ],
+
   "(17)": [
     { "caption": "Area tangga menuju gedung FILKOM. Ada tanda lantai licin di depan pintu. Tangga basah dan berbahaya." },
     { "caption": "Seorang petugas membersihkan tangga. Permukaan basah dan licin. Waspadai anak tangga." },
@@ -118,6 +134,7 @@
     { "caption": "Tangga dan area sekitarnya basah. Tanda kuning menunjukkan adanya bahaya terpeleset karena lantai basah." },
     { "caption": "Terlihat pintu masuk sebuah gedung dengan tangga di depannya. Di anak tangga terdapat peringatan kuning. Tidak ada bahaya secara langsung untuk tunanetra." }
   ],
+
   "(18)": [
     { "caption": "Halaman parkir setelah hujan. Dua cone diletakkan di tengah. Banyak genangan air yang licin." },
     { "caption": "Area luar dengan pohon besar dan mobil parkir. Cone penanda di jalan basah. Bahaya terpeleset." },
@@ -125,6 +142,7 @@
     { "caption": "Terdapat dua kerucut oranye diletakkan di tengah genangan. Genangan air besar dapat menjadi bahaya tersandung atau lantai licin." },
     { "caption": "Terlihat jalanan basah dengan dua kerucut oranye di tengahnya. Terdapat genangan air. Hati-hati tersandung dan lantai basah yang licin." }
   ],
+
   "(19)": [
     { "caption": "Ruang dalam gedung dengan tangga naik. Area kosong dan lantai licin. Tangga bisa menjadi bahaya." },
     { "caption": "Sudut koridor menuju tangga. Pencahayaan redup di area tangga. Hati-hati melangkah." },
@@ -132,11 +150,252 @@
     { "caption": "Lantai tampak bersih dan rata. Tidak ada bahaya khusus yang terlihat selain bahaya umum saat menaiki tangga." },
     { "caption": "Terlihat sudut ruangan dengan tangga naik. Ada jendela di sisi kiri. Tidak ada bahaya secara langsung untuk tunanetra selain tangga yang tidak digunakan secara hati-hati." }
   ],
+
   "(20)": [
     { "caption": "Area lift dengan papan penunjuk lantai. Tempat sampah berada di dekatnya. Lantai aman dan tidak ada bahaya jelas." },
     { "caption": "Koridor menuju dua lift. Papan informasi berdiri di tengah. Waspadai menabrak papan." },
     { "caption": "Area lobi di depan lift berwarna hitam. Ada tempat sampah baja dan papan informasi denah ruangan di tengah." },
     { "caption": "Lantai ruangan mengkilap. Tidak ada bahaya khusus yang terlihat, tetapi papan informasi besar di tengah ruangan merupakan rintangan yang harus dihindari." },
-    { "caption": "Terlihat area lift dalam sebuah gedung dengan papan informasi di tengahnya. Tidak ada bahaya secara langsung untuk tunanetra." }
+    { "caption": "Terlihat area lift dalam sebuah gedung denagn papan informasi di tengahnya. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(21)": [
+    { "caption": "Area duduk luar ruangan yang basah. Ada bangku beton dan jalur berbatu. Lantai licin dan tidak rata." },
+    { "caption": "Beberapa bangku berada di dekat gedung. Hujan membuat lantai licin. Hati-hati tersandung di batu kerikil." },
+    { "caption": "Area luar ruangan yang basah dan terdiri dari paving block dan kerikil. Terdapat bangku berbentuk bunga berdaun sintetis." },
+    { "caption": "Lantai tidak rata dengan perpaduan kerikil dan paving block. Genangan air dapat menjadi bahaya terpeleset." },
+    { "caption": "Terlihat area untuk duduk di luar ruangan yang basah. Lantai terdiri dari paving blok dan kerikil berwarna putih. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(22)": [
+    { "caption": "Sebuah pos kecil berwarna biru di area hujan. Lantai tidak rata dan ada lubang di dekatnya. Bahaya tersandung." },
+    { "caption": "Bangunan kecil tua berada di tepi jalan basah. Ada cekungan di tanah. Waspadai permukaan tidak rata." },
+    { "caption": "Sebuah pos jaga atau gubuk kecil berwarna biru tampak basah karena hujan. Pintu pos terbuka." },
+    { "caption": "Jalan di depan pos terdiri dari paving block basah dan tanah. Ada parit terbuka di kanan yang dapat menjadi bahaya terjatuh." },
+    { "caption": "Terlihat bangunan kecil seperti pos berwarna biru. Ada beberapa tanaman hijau dan pohon di latar belakang. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(23)": [
+    { "caption": "Tempat sampah hijau terisi penuh di dekat bangunan. Lantai basah dan licin. Ada sisi dudukan beton yang retak." },
+    { "caption": "Area luar dengan tempat sampah dan bangku. Banyak air di lantai. Risiko tergelincir cukup tinggi." },
+    { "caption": "Tong sampah beroda berwarna hijau diletakkan di luar ruangan dekat tembok seng. Lantai paving block basah." },
+    { "caption": "Tembok di belakang tong sampah tidak rata. Tidak ada bahaya khusus yang terlihat, tetapi lantai basah berpotensi licin." },
+    { "caption": "Terlihat tong sampah berwarna hijau yang terbuka sebagian dan terisi penuh. Di belakang terlihat pagar seng. Lantai paving block yang basah. Tidak ada bahaya secara langsung untuk tunanetra, namun lantai licin dapat membuat tergelincir." }
+  ],
+
+  "(24)": [
+    { "caption": "Dua orang sedang merapikan meja makan. Area semi-outdoor dengan jalur kerikil di samping. Hati-hati tersandung kerikil." },
+    { "caption": "Tempat makan dengan meja kayu. Lantai belakang tidak rata dan ada kerikil. Bisa menjadi bahaya bagi tunanetra." },
+    { "caption": "Area makan luar ruangan dengan meja dan kursi beton. Dua pria sedang membersihkan meja." },
+    { "caption": "Lantai terdiri dari beton dan jalur kerikil putih di sisi kanan. Tidak ada bahaya khusus yang terlihat." },
+    { "caption": "Terlihat area makan dengan beberapa meja dan bangku. Lantainya berkerikil putih. Ada dua orang di sebuah meja. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(25)": [
+    { "caption": "Deretan meja makan dengan jalur kerikil putih. Lantai tidak rata. Bahaya tersandung." },
+    { "caption": "Area makan luar ruangan. Ada batu kerikil panjang di tengah jalur. Waspadai permukaan yang tidak rata." },
+    { "caption": "Area makan luar ruangan. Terdapat meja dan kursi yang terbuat dari beton dan kayu." },
+    { "caption": "Lantai terdiri dari beton dan jalur kerikil putih di tengah. Tidak ada bahaya khusus yang terlihat." },
+    { "caption": "Terlihat area makan dengan beberapa meja dan bangku. Lantai dilapisi batu kerikil putih. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(26)": [
+    { "caption": "Parkiran motor di bawah atap dengan lantai paving tidak rata. Banyak tiang dan motor yang bisa menjadi hambatan." },
+    { "caption": "Deretan motor di koridor sempit. Lantai tidak rata dan ada tiang, berpotensi tersandung atau menabrak." },
+    { "caption": "Area parkir motor semi-terbuka dengan pilar beton. Lantai paving block basah dan banyak motor terparkir." },
+    { "caption": "Jalur di antara motor sempit. Bahaya tersandung akibat motor yang terparkir sembarangan atau area sempit." },
+    { "caption": "Terlihat parkiran motor di area tertutup. Lantainya dilapisi batu bata. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(27)": [
+    { "caption": "Area konstruksi dengan pembatas merah dan cone. Lantai basah dan banyak batu berserakan, sangat berbahaya." },
+    { "caption": "Jalanan pembangunan dengan blok beton dan penghalang. Banyak hambatan dan lantai licin." },
+    { "caption": "Area paving block basah di depan gedung yang sedang dalam konstruksi. Terdapat tumpukan bata dan bahan bangunan di kedua sisi." },
+    { "caption": "Sebuah barikade oranye diletakkan di tengah jalur, terikat tali kuning. Barikade dan tumpukan material menimbulkan bahaya tersandung dan rintangan yang serius." },
+    { "caption": "Terlihat area konstruksi dengan penghalang dan kerucut oranye. Terdapat tumpukan beton dan bahan bangunan. Tidak ada bahaya secara langsung, namun tunanetra perlu berhati-hati." }
+  ],
+
+  "(28)": [
+    { "caption": "Jalan basah dengan mobil parkir di tepi. Ada lubang dan lantai tidak rata yang berbahaya." },
+    { "caption": "Area kampus setelah hujan. Jalanan rusak dan licin, perlu hati-hati agar tidak terpeleset." },
+    { "caption": "Jalanan paving block yang sangat basah dan memiliki genangan air, diapit oleh mobil yang terparkir." },
+    { "caption": "Di sisi kanan jalan terdapat tanah gembur dan kerikil. Genangan air di jalan menyebabkan potensi bahaya lantai licin." },
+    { "caption": "Terlihat jalanan basah dengan paving block. Ada mobil terparkir di sebelah kiri. Terdapat pohon dan bangunan di latar belakang. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(29)": [
+    { "caption": "Koridor sempit dengan motor parkir dan papan besar menghalangi jalan. Lantai tidak rata, berpotensi tersandung." },
+    { "caption": "Area teduh dengan banyak hambatan seperti motor, papan kayu, dan paving rusak. Sangat berbahaya untuk tunanetra." },
+    { "caption": "Lorong parkir yang gelap dan sempit, sebagian tertutup oleh papan kayu besar di sebelah kiri." },
+    { "caption": "Lantai paving block tidak rata dan lorong sempit. Papan kayu di tengah jalur dan motor terparkir dapat menjadi bahaya tersandung dan rintangan." },
+    { "caption": "Terlihat lorong sempit tertutup dengan pintu kayu. Ada motor terparkir. Lantainya dilapisi paving block. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(30)": [
+    { "caption": "Jalur taman dengan batu pijakan basah. Permukaan tidak rata dan licin, risiko terpeleset tinggi." },
+    { "caption": "Area taman basah dengan jalan setapak beton. Banyak permukaan tidak rata yang bisa menyebabkan tersandung." },
+    { "caption": "Jalur setapak berupa lempengan batu di atas rumput hijau yang basah. Ada tanaman hias berwarna kuning cerah di sebelah kanan." },
+    { "caption": "Jalur setapak batu tidak rata dan licin karena basah. Permukaan tidak rata dan licin dapat menjadi bahaya bagi tunanetra." },
+    { "caption": "Terlihat kebun dengan jalan setapak yang terlihat basah. Terdapat bahaya tergelincir bagi tunanetra." }
+  ],
+
+  "(31)": [
+    { "caption": "Koridor kantor dengan dinding kaca. Seseorang berjalan ke ujung lorong. Tidak ada bahaya langsung, namun hati-hati dengan pintu kaca." },
+    { "caption": "Lorong terang dengan lantai licin mengkilap. Banyak pintu kaca di samping. Risiko menabrak kaca jika tidak terlihat jelas." },
+    { "caption": "Lorong panjang indoor dengan dinding dan pintu kaca di kedua sisi. Lantai keramik mengkilap." },
+    { "caption": "Seorang pria berjalan membelakangi kamera. Tidak ada bahaya khusus yang terlihat, lantai tampak rata." },
+    { "caption": "Terlihat seorang pria berjalan di lorong dengan pintu kaca di kedua sisi. Lorong terlihat modern dengan lantai mengkilap. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(32)": [
+    { "caption": "Tangga menuju lantai atas dengan pegangan di tengah. Tidak ada hambatan, tetapi tangga tetap berbahaya bagi tunanetra." },
+    { "caption": "Area tangga terang dengan anak tangga tinggi. Perlu berhati-hati agar tidak tersandung." },
+    { "caption": "Tangga darurat di dalam gedung dengan dinding putih dan pegangan tangan stainless steel." },
+    { "caption": "Tangga terlihat bersih dan terang. Tidak ada bahaya khusus yang terlihat selain bahaya umum menaiki tangga." },
+    { "caption": "Terlihat tangga ke atas dan ke bawah dengan pegangan di tengahnya. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(33)": [
+    { "caption": "Koridor panjang dengan seseorang berjalan menuju lift. Ada alat pemadam di dinding. Tidak tampak bahaya kecuali lantai licin." },
+    { "caption": "Lorong menuju area lift. Lantai mengkilap dan ada dinding menjorok. Hati-hati tergelincir." },
+    { "caption": "Lorong indoor yang panjang dan sempit. Seorang pria berjalan membelakangi kamera." },
+    { "caption": "Terdapat alat pemadam api ringan (APAR) yang terpasang di dinding kiri. Tidak ada bahaya khusus yang terlihat, lantai tampak rata." },
+    { "caption": "Terlihat seorang pria berjalan di lorong. Ada alat pemadam api di dinding kiri lorong. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(34)": [
+    { "caption": "Dua lift dengan keset merah di depannya. Tempat sampah berada di tengah. Tidak ada bahaya besar, tapi waspadai lantai licin." },
+    { "caption": "Area lift yang tenang dengan dua pintu. Keset bisa menjadi perubahan permukaan yang terasa bagi tunanetra." },
+    { "caption": "Pemandangan dua pintu lift berwarna hitam mengkilap di lantai 9. Di depannya ada tempat sampah silinder." },
+    { "caption": "Lantai mengkilap dan rata. Tempat sampah di depan lift merupakan rintangan yang harus dihindari." },
+    { "caption": "Terlihat dua pintu lift tertutup dengan karpet merah di depannya. Ada tong sampah di tengah lift. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(35)": [
+    { "caption": "Dua pintu kaca terbuka menuju ruang dalam. Tempat sampah berada di tengah. Bahaya menabrak pintu kaca." },
+    { "caption": "Area masuk dengan pintu kaca. Ada alat pemadam dan tempat sampah. Waspadai pintu transparan." },
+    { "caption": "Pintu masuk kaca ganda di lobi gedung. Ada tempat sampah baja dan APAR di antara pintu." },
+    { "caption": "Pintu kaca bening dapat menjadi potensi bahaya benturan jika tidak ada penanda visual yang jelas." },
+    { "caption": "Terlihat dua pintu kaca modern dengan alat pemadam api dan tong sampah di tengahnya. Lantainya dilapisi ubin hitam putih. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(36)": [
+    { "caption": "Terdapat tanda lantai licin di depan toilet. Lantai mengkilap dan bisa berbahaya jika basah." },
+    { "caption": "Koridor dengan beberapa pintu dan kursi. Ada peringatan lantai licin, perlu berhati-hati." },
+    { "caption": "Lorong indoor dengan beberapa kursi tunggu dan pintu berwarna cokelat di dinding. Terdapat tanda peringatan kuning 'CAUTION WET FLOOR' di lantai." },
+    { "caption": "Tanda kuning di lantai keramik yang mengkilap menunjukkan adanya bahaya terpeleset di lorong tersebut." },
+    { "caption": "Terlihat lorong dengan seseorang di ujung. Ada tanda kuning menandakan lantai licin atau basah. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(37)": [
+    { "caption": "Area tunggu dengan deretan kursi kosong. Lantai licin dan mengkilap, namun tidak ada hambatan langsung." },
+    { "caption": "Koridor luas dengan dinding kaca. Tidak tampak bahaya, tetapi kursi berada dekat jalur jalan." },
+    { "caption": "Lorong panjang dengan deretan jendela kaca di sisi kiri dan kursi tunggu baja di sisi kanan. Lantai keramik tampak mengkilap." },
+    { "caption": "Kursi-kursi baja diletakkan di lorong. Tidak ada bahaya khusus yang terlihat, lantai tampak rata." },
+    { "caption": "Terlihat lorong indoor dengan dinding kaca pada sebelah kiri. Ada deretan kursi kosong di sebelah kanan. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(38)": [
+    { "caption": "Tangga menurun dengan pegangan besi. Anak tangga licin dan perlu hati-hati untuk tidak tersandung." },
+    { "caption": "Area tangga menuju lorong. Ada perubahan tinggi lantai yang berpotensi berbahaya." },
+    { "caption": "Pemandangan tangga di dalam gedung dari atas ke bawah. Tangga memiliki pegangan tangan baja dan lantai keramik putih." },
+    { "caption": "Di ujung tangga terdapat lorong yang terang. Tidak ada bahaya khusus yang terlihat selain bahaya umum saat menaiki atau menuruni tangga." },
+    { "caption": "Terlihat tangga dengan pegangan besi di tengahnya. Ada lorong dengan dinding kaca dan seseorang di latar belakang. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(39)": [
+    { "caption": "Area luar basah dengan banyak pohon. Lantai licin dan ada genangan air." },
+    { "caption": "Jalan paving di taman kampus setelah hujan. Waspadai permukaan licin." },
+    { "caption": "Area paving block luar ruangan yang basah dan bergenang air, dikelilingi banyak pohon. Terdapat tempat sampah oranye." },
+    { "caption": "Genangan air dan permukaan paving block yang basah dapat menjadi potensi bahaya lantai licin." },
+    { "caption": "Terlihat area dengan paving block dengan pohon dan tanaman hijau di latar belakang. Lantai terlihat basah dan licin yang dapat menyebabkan tergelincir untuk tunanetra." }
+  ],
+
+  "(40)": [
+    { "caption": "Jalan luar ruangan basah dengan bebatuan dekoratif. Ada pohon besar dan bangku semen." },
+    { "caption": "Area kampus setelah hujan. Lantai licin dan terdapat permukaan tidak rata." },
+    { "caption": "Area taman luar ruangan dengan jalur paving block basah. Terdapat kerikil putih yang membentuk pola di lantai." },
+    { "caption": "Lantai paving block yang basah dan kombinasi dengan kerikil dapat menjadi potensi bahaya permukaan licin dan tidak rata." },
+    { "caption": "Terlihat area paving block dengan pola bulat. Ada beberapa pohon dan tanaman hijau di latar belakang. Lantai terlihat basah dan licin. Tidak ada bahaya secara langsung untuk tunanetra selain lantai yang terlihat licin." }
+  ],
+
+  "(41)": [
+    { "caption": "Jalur ramp dan lorong makan di luar ruangan. Lantai licin saat basah, perlu hati-hati." },
+    { "caption": "Ramp panjang dengan pegangan besi di samping area duduk. Permukaan lantai dapat licin bagi tunanetra." },
+    { "caption": "Jalur ramp (bidang miring) untuk akses disabilitas, dengan pegangan tangan baja di sisi kiri dan kanan." },
+    { "caption": "Lantai ramp tampak rata dan aman untuk dilewati. Tidak ada bahaya khusus yang terlihat." },
+    { "caption": "Terlihat jalur miring dengan pegangan logam di tengahnya. Ada beberapa meja dan kursi di latar belakang. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(42)": [
+    { "caption": "Area luar basah dengan dua cone oranye. Lantai licin dan banyak genangan air." },
+    { "caption": "Jalan paving dekat taman. Cone menandai area berbahaya saat hujan." },
+    { "caption": "Area luar ruangan yang basah dengan jalur paving block dan kerikil di sisi kanan. Terdapat dua kerucut oranye di tengah genangan air." },
+    { "caption": "Kerucut oranye tersebut merupakan rintangan yang harus dihindari. Genangan air di lantai menyebabkan potensi bahaya lantai licin." },
+    { "caption": "Terlihat area basah dengan lantai paving dengan dua kerucut oranye di tengah. Ada pohon dan beberapa tanaman hijau di latar belakang. Ada potensi bahaya untuk tunanetra dari kondisi area yang basah dan licin." }
+  ],
+
+  "(43)": [
+    { "caption": "Tempat makan dengan meja dan kursi. Ada jalur kerikil di tengah yang berpotensi tersandung." },
+    { "caption": "Area makan semi-outdoor. Permukaan tidak rata dengan batu kerikil, perlu hati-hati." },
+    { "caption": "Area makan semi-outdoor. Terdapat jalur pejalan kaki yang dipenuhi batu kerikil putih di tengah ruangan." },
+    { "caption": "Seorang pria sedang membersihkan meja. Jalur kerikil putih merupakan potensi bahaya permukaan sangat tidak rata yang sulit dilewati." },
+    { "caption": "Terlihat area makan semi terbuka dengan meja dan kursi. Lantai ditutupi batu kerikil putih. Tidak ada bahaya yang terlihat untuk tunanetra." }
+  ],
+
+  "(44)": [
+    { "caption": "Jalan rusak dengan lubang besar berisi air. Sangat berbahaya untuk dilintasi." },
+    { "caption": "Area luar setelah hujan. Banyak genangan dan permukaan tidak rata, risiko terpeleset tinggi." },
+    { "caption": "Jalanan yang sangat rusak dengan aspal terkelupas dan banyak genangan air berlumpur." },
+    { "caption": "Permukaan jalan sangat tidak rata dan penuh lubang. Kondisi ini dapat menjadi bahaya tersandung, terperosok, dan licin yang sangat berbahaya." },
+    { "caption": "Terlihat jalan rusak yang basah dan banyak genangan air karena hujan. Ada pohon dan bangunan di latar belakang. Jalan yang basah dan tidak rata dapat menimbulkan risiko tergelincir untuk tunanetra." }
+  ],
+
+  "(45)": [
+    { "caption": "Tangga dalam gedung dengan pegangan besi. Perubahan tinggi lantai dapat berbahaya." },
+    { "caption": "Area tangga terang dengan banyak pegangan. Tetap perlu hati-hati agar tidak tersandung." },
+    { "caption": "Tangga di dalam gedung dengan pegangan tangan baja. Dinding di sekitar tangga berwarna putih." },
+    { "caption": "Tangga terlihat bersih dan terang. Tidak ada bahaya khusus yang terlihat selain bahaya umum saat menaiki tangga." },
+    { "caption": "Terlihat tangga dengan penggangan logam. Terdapat poster di dinding sebelah kiri. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(46)": [
+    { "caption": "Jalur taman dengan batu pijakan yang basah. Permukaan tidak rata dan licin, berbahaya untuk berjalan." },
+    { "caption": "Seorang pria berjongkok di dekat tanaman. Jalan setapak basah dan mudah membuat terpeleset." },
+    { "caption": "Seorang pria sedang berjongkok untuk mengambil gambar tanaman di jalur setapak. Jalur setapak terbuat dari lempengan batu di atas rumput dan tampak basah." },
+    { "caption": "Lempengan batu yang basah dan tidak rata di atas rumput dapat menjadi bahaya terpeleset atau tersandung." },
+    { "caption": "Terlihat seseorang sedang berjongkok untuk mengambil gambar di sebuah taman dengan jalur batu pijakan. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(47)": [
+    { "caption": "Jalur taman dengan palang hijau rendah. Hambatan rendah ini berbahaya dan dapat tersandung." },
+    { "caption": "Lantai basah dekat palang hijau dan hydrant merah. Risiko terpeleset dan menabrak palang." },
+    { "caption": "Seorang pria berdiri di atas jalur setapak batu yang basah di taman. Terdapat palang kayu berwarna hijau yang melintang rendah di depan jalur setapak." },
+    { "caption": "Palang kayu hijau yang melintang rendah dan jalur batu yang tidak rata merupakan bahaya tersandung yang serius." },
+    { "caption": "Terlihat seseorang berdiri di jalur taman yang basah. Terlihat papan hijau yang rendah. Papan dapat menjadi risiko tersandung untuk tunanetra." }
+  ],
+
+  "(48)": [
+    { "caption": "Ruang kerja dengan beberapa orang duduk di kursi. Lantai aman dan tidak ada hambatan berarti." },
+    { "caption": "Area kantor dengan komputer dan meja. Tidak tampak bahaya bagi tunanetra." },
+    { "caption": "Ruangan kerja atau laboratorium dengan beberapa meja. Banyak mahasiswa sedang bekerja di depan komputer dan laptop." },
+    { "caption": "Lantai ruangan tampak rata dan bersih. Tidak ada bahaya khusus yang terlihat di lantai." },
+    { "caption": "Terlihat ruangan kerja atau laboratorium dengan beberapa orang bekerja di meja dengan laptop. Ada beberapa alat elektronik di latar belakang. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(49)": [
+    { "caption": "Ruang kerja dengan meja dan alat elektronik. Banyak barang di meja tetapi tidak ada bahaya besar." },
+    { "caption": "Dua orang duduk bekerja. Area cukup aman meski beberapa barang terserak." },
+    { "caption": "Dua orang pria sedang duduk dan bekerja di depan meja yang terdapat printer 3D dan perlengkapan lainnya." },
+    { "caption": "Banyak kabel dan barang berserakan di bawah meja. Kabel dan barang di lantai berpotensi menjadi bahaya tersandung." },
+    { "caption": "Terlihat ruang kerja dengan dua orang duduk di kursi. Ada beberapa barang di aras meja. Tidak ada bahaya secara langsung untuk tunanetra." }
+  ],
+
+  "(50)": [
+    { "caption": "Area wastafel di toilet dengan banyak barang di meja. Potensi bahaya kecil karena permukaan sempit." },
+    { "caption": "Wastafel dengan sabun dan botol-botol. Lantai masuk tampak aman tetapi tetap perlu hati-hati." },
+    { "caption": "Pemandangan area wastafel di dalam toilet dengan cermin besar dan wastafel hitam. Banyak botol dan perlengkapan mandi diletakkan di wastafel." },
+    { "caption": "Di sisi kiri terlihat area cubicle toilet dengan anak tangga kecil menuju lantai. Anak tangga kecil tersebut merupakan potensi bahaya tersandung atau salah langkah." },
+    { "caption": "Terlihat area toilet atau kamar mandi dengan wastafel dan cermin. Area wastafel ada beberapa barang. Tidak ada bahaya secara langsung untuk tunanetra." }
   ]
 }

@@ -15,7 +15,7 @@
     { "prediction": "Di depan terlihat modern, well- cahaya area penerimaan dengan ramping, counter putih. Lantainya mengkilap dan reflektif, dan ada jendela besar di latar belakang. Tidak ada tanda-tanda bahaya atau hambatan untuk tunanetra." }
   ],
   "(6)": [
-    { "prediction": "Di depan ini terlihat dua orang berjalan di bawah lorong tertutup. Jalan setapak memiliki pola garis hitam dan putih pada kolom. Tanah ini dilapisi dengan ubin putih, dan ada kerikil kecil di sisinya. Jalan setapak dikelilingi oleh greenery, termasuk pohon dan semak-semak. Tidak ada bahaya yang terlihat bagi orang tunanetra, karena jalan setapak yang menyala dan kolom terlihat dengan jelas." }
+    { "prediction": "Di depan ini terlihat dua orang berjalan di bawah lorong tertutup. Jalan setapak memiliki pola garis hitam dan putih pada kolom. Tanah ini dilapisi dengan ubin putih, dan ada kerikil kecil di sisinya. Jalan setapak dikelilingi oleh Greenery, termasuk pohon dan semak-semak. Tidak ada bahaya yang terlihat bagi orang-tunanetra, karena jalan setapak yang menyala dan kolom terlihat dengan jelas." }
   ],
   "(7)": [
     { "prediction": "Di depan terlihat jalan yang basah, miring dengan tanda kuning hati-hati terlihat lantai basah. Ada orang berjalan di latar belakang. Area ini tampaknya luar ruangan, dengan hijau dan jalan setapak tertutup. Lantai basah bisa menimbulkan risiko tergelincir bagi individu tunanetra." }
@@ -30,7 +30,7 @@
     { "prediction": "Di depan terlihat sebuah toko kecil dengan pintu biru dan counter di dalam. Ada berbagai barang yang dipajang, termasuk kotak dan tas. Toko ini terletak di depan bangunan dengan pohon hijau di latar belakang. Tanah di luar toko diaspal dengan ubin hitam. Tidak ada bahaya secara langsung untuk tunanetra, tetapi mereka harus berhati-hati dari tanah tidak rata dan potensi untuk permukaan licin." }
   ],
   "(11)": [
-    { "prediction": "Di depan ini terlihat ruang makan modern, terbuka-udara dengan meja dan kursi. Lantai ditutupi dengan kecil, kerikil putih, dan ada tanaman di latar belakang. Area ini tampak bersih dan dijaga dengan baik. Tidak ada bahaya secara langsung bagi orang tunanetra, karena ruang terlihat dengan jelas dan tabel yang berjarak terpisah." }
+    { "prediction": "Di depan ini terlihat ruang makan modern, terbuka-udara dengan meja dan kursi. Lantai ditutupi dengan kecil, kerikil putih, dan ada tanaman di latar belakang. Area ini tampak bersih dan dijaga dengan baik. Tidak ada bahaya secara langsung bagi orang-tunanetra, karena ruang terlihat dengan jelas dan tabel yang berjarak terpisah." }
   ],
   "(12)": [
     { "prediction": "Di depan ini terlihat jalan beraspal dengan beberapa puing berserakan dan sebuah sepeda motor diparkir di sisi kanan. Tidak ada bahaya secara langsung untuk tunanetra, tetapi puing-puing tersebar bisa menimbulkan bahaya tersandung." }
@@ -39,7 +39,7 @@
     { "prediction": "Di depan terlihat jalan dengan trotoar rusak dan lubang. Ada pohon dan bangunan di latar belakang. Jalan tampak basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung untuk tunanetra, tetapi lubang dan permukaan tidak rata bisa menimbulkan risiko." }
   ],
   "(14)": [
-    { "prediction": "Di depan terlihat lokasi konstruksi dengan tumpukan batu bata dan bahan bangunan di trotoar. Ada gerobak dekat sini. Area tampaknya berada di bawah konstruksi, dan trotoar sebagian tertutup dengan kotoran dan puing-puing. Ini bisa menimbulkan risiko bagi orang tunanetra yang mungkin tersandung bahan yang longgar atau perjalanan di atas permukaan tidak rata." }
+    { "prediction": "Di depan terlihat lokasi konstruksi dengan tumpukan batu bata dan bahan bangunan di trotoar. Ada gerobak dekat sini. Area tampaknya berada di bawah konstruksi, dan trotoar sebagian tertutup dengan kotoran dan puing-puing. Ini bisa menimbulkan risiko bagi orang-tunanetra yang mungkin tersandung bahan yang longgar atau perjalanan di atas permukaan tidak rata." }
   ],
   "(15)": [
     { "prediction": "Di depan terlihat jalan basah dengan mobil putih dan sepeda motor mengemudi di atasnya. Ada pohon dan bangunan di latar belakang. Jalan tampak basah, mungkin dari hujan baru-baru ini. Ada tiang bergaris biru dan putih di sisi jalan. Situasi keseluruhan aman untuk tunanetra, karena tidak ada hambatan terlihat atau bahaya." }
@@ -48,15 +48,105 @@
     { "prediction": "Di depan terlihat bagian dari trotoar dengan simbol kursi roda terlihat area yang ditunjuk dapat diakses. Trotoarnya terbuat dari ubin yang gelap dan halus, dan ada beberapa tanaman hijau dan pagar kecil di sepanjang tepi. Area ini tampak basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung untuk tunanetra, karena simbol kursi roda jelas terlihat." }
   ],
   "(17)": [
-    { "prediction": "Di depan terlihat pintu masuk bangunan modern dengan satu set tangga mengarah ke pintu. Ada pilar hitam di kedua sisi tangga, dan pintu masuk memiliki pintu kaca besar. Area ini bersih dan dijaga dengan baik, dengan tanaman pot dan biru menjulang di atas pintu masuk. Ada tanda peringatan kuning di lantai dekat tangga. Tangga basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung bagi orang tunanetra, karena pintu masuk terlihat dengan jelas dan tangga baik didefinisikan." }
+    { "prediction": "Di depan terlihat pintu masuk bangunan modern dengan satu set tangga mengarah ke pintu. Ada pilar hitam di kedua sisi tangga, dan pintu masuk memiliki pintu kaca besar. Area ini bersih dan dijaga dengan baik, dengan tanaman pot dan biru menjulang di atas pintu masuk. Ada tanda peringatan kuning di lantai dekat tangga. tangga yang basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung bagi orang-tunanetra, karena pintu masuk terlihat dengan jelas dan tangga baik didefinisikan." }
   ],
   "(18)": [
-    { "prediction": "Di depan ini terlihat area basah dan beraspal dengan dua kerucut oranye diletakkan di tanah. Ada pohon dan parkir mobil di latar belakang. Permukaan basah dan kehadiran kerucut terlihat bahwa area mungkin di bawah konstruksi atau sementara ditutup. Tunanetra harus berhati-hati dari permukaan basah dan kerucut, karena mereka bisa menimbulkan bahaya tersandung." }
+    { "prediction": "Di depan ini terlihat area basah dan beraspal dengan dua kerucut oranye diletakkan di tanah. Ada pohon dan parkir mobil di latar belakang. Permukaan basah dan kehadiran kerucut terlihat bahwa area mungkin di bawah konstruksi atau sementara ditutup. tunanetra harus berhati-hati dari permukaan basah dan kerucut, karena mereka bisa menimbulkan bahaya tersandung." }
   ],
   "(19)": [
-    { "prediction": "Di depan terlihat interior modern dengan tangga mengarah ke tingkat atas. Ada jendela di sisi kiri, yang memungkinkan cahaya alami masuk. Alat pemadam kebakaran terlihat dekat tangga. Lantainya keramik, dan dindingnya dicat putih. Tidak ada bahaya secara langsung untuk tunanetra, tapi tangga bisa menimbulkan risiko jika tidak digunakan dengan hati-hati." }
+    { "prediction": "Di depan terlihat interior modern dengan tangga mengarah ke tingkat atas. Ada jendela di sisi kiri, yang memungkinkan cahaya alami masuk. Alat pemadam kebakaran terlihat dekat tangga. lantainya keramik, dan dindingnya dicat putih. Tidak ada bahaya secara langsung untuk tunanetra, tapi tangga bisa menimbulkan risiko jika tidak digunakan dengan hati-hati." }
   ],
   "(20)": [
-    { "prediction": "Di depan ini terlihat pintu masuk gedung dengan papan rancangan lantai. Tanda ditempatkan di berdiri dan daftar lantai dari 1 sampai 12. Ada tempat sampah baja stainless di depan papan. Lantainya keramik, dan ada tanaman di pot dekat pintu masuk. Area ini dinyalakan dengan lampu di atas. Tidak ada bahaya secara langsung untuk tunanetra, tetapi tanda harus jelas terlihat dan dapat diakses." }
+    { "prediction": "Di depan ini terlihat pintu masuk gedung dengan papan rancangan lantai. Tanda ditempatkan di berdiri dan daftar lantai dari 1 sampai 12. Ada tempat sampah baja stainless di depan papan. lantainya keramik, dan ada tanaman di pot dekat pintu masuk. Area ini dinyalakan dengan lampu di atas. Tidak ada bahaya secara langsung untuk tunanetra, tetapi tanda harus jelas terlihat dan dapat diakses." }
+  ],
+  "(21)": [
+    { "prediction": "Di depan ini terlihat area beraspal dengan kombinasi batu bata dan tekstur kerikil. Ada perkebunan beton dengan hijau dan hidran merah. Seseorang dengan seragam terlihat di latar belakang. Area ini tampaknya dijaga dengan baik, tapi tidak ada hambatan atau bahaya terlihat." }
+  ],
+  "(22)": [
+    { "prediction": "Di depan terlihat bangunan biru kecil dengan atap, mungkin rumah penjaga atau gudang kecil. Hal ini terletak di area beraspal dengan beberapa hijau di latar belakang. Tanahnya basah, terlihat hujan baru-baru ini. Tidak ada bahaya secara langsung untuk tunanetra, tapi tanah basah bisa licin." }
+  ],
+  "(23)": [
+    { "prediction": "Di depan terlihat kotak daur ulang hijau dengan kata \"Kleen\" di atasnya, ditempatkan di permukaan yang basah dan beraspal. Tempat sampah sebagian terbuka, mengungkapkan beberapa benda di dalam. Ada bangku kayu di samping tempat sampah. Latar belakang meliputi pagar logam dikorupsi dan beberapa hijau. Tanah tampak basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung untuk tunanetra, tetapi permukaan basah mungkin membuatnya licin." }
+  ],
+  "(24)": [
+    { "prediction": "Di depan ini terlihat area tempat duduk sederhana dengan dua meja dan bangku. Ada ransel di salah satu meja. Area ini tampaknya menjadi ruang makan santai atau ruang pertemuan. Tidak ada bahaya secara langsung untuk tunanetra, tetapi mereka harus berhati-hati dari ransel dan benda lainnya di meja." }
+  ],
+  "(25)": [
+    { "prediction": "Di depan ini terlihat area tempat duduk modern yang sederhana dengan dua tabel tinggi dan bangku yang cocok. Meja memiliki lampu berwarna, mungkin batu, atas dan logam hitam frame. bangku memiliki desain yang sama. Lantai ditutupi dengan kecil, cahaya berwarna kerikil, dan ada jalan sempit terbuat dari kerikil yang sama mengarah ke pintu atau pintu masuk. Area ini tampak bersih dan dijaga dengan baik. Tidak ada bahaya secara langsung untuk tunanetra, karena tabel dan bangku jelas terlihat dan jalan secara baik didefinisikan." }
+  ],
+  "(26)": [
+    { "prediction": "Di depan terlihat area tertutup dengan beberapa skuter yang diparkir. Tanah ini dilapisi dengan batu bata, dan area yang dicukur oleh atap. Tidak ada bahaya secara langsung untuk tunanetra, karena skuter jelas terlihat dan area terang." }
+  ],
+  "(27)": [
+    { "prediction": "Di depan ini terlihat lokasi konstruksi dengan penghalang merah dan kerucut oranye. Ada juga tumpukan beton dan tumpukan batu bata. Area ini tampak basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung untuk tunanetra, tetapi mereka harus berhati-hati dan mengikuti pedoman keselamatan." }
+  ],
+  "(28)": [
+    { "prediction": "Di depan terlihat jalan basah, beraspal dengan trotoar di sebelah kiri. Ada mobil diparkir di sebelah kanan jalan. Jalan tampaknya di tempat parkir atau area yang sama dengan beberapa pohon dan bangunan di latar belakang. Tanahnya basah, terlihat hujan baru-baru ini. Tidak ada hambatan atau bahaya yang terlihat yang menimbulkan bahaya bagi tunanetra." }
+  ],
+  "(29)": [
+    { "prediction": "Di depan terlihat lorong tertutup dengan pintu kayu sebagian terbuka. Ada sepeda motor diparkir di sisi kanan jalan raya. Area ini tampaknya luar ruangan, dengan beberapa hijau terlihat di latar belakang. Jalan setapak terbuat dari ubin bata, dan ada struktur logam di sebelah kiri. Pintunya ada tulisan. Tidak ada bahaya secara langsung untuk tunanetra, tetapi sebagian pintu terbuka bisa menimbulkan bahaya tersandung." }
+  ],
+  "(30)": [
+    { "prediction": "Di depan ini terlihat kebun yang dijaga dengan baik dengan jalur menuju ke gedung. Ada pohon, semak-semak, dan bunga. Seseorang berjalan di belakang. Ada keran air di jalan. Area ini terlihat aman untuk orang yang mengalami gangguan penglihatan, tapi mereka harus berhati-hati terhadap sumber air." }
+  ],
+  "(31)": [
+    { "prediction": "Di depan terlihat seseorang berjalan menyusuri lorong yang panjang dan terang dengan pintu kaca di kedua sisi. Lorong memiliki penampilan, bersih modern dengan dinding putih dan lantai mengkilap. Tidak ada tanda-tanda bahaya atau hambatan untuk tunanetra. Orang itu berjalan menjauh dari kamera, dan lorong meluas ke kejauhan." }
+  ],
+  "(32)": [
+    { "prediction": "Di depan terlihat tangga dengan tangga hitam dan putih. Ada pegangan di sisi kiri. Dinding putih, dan ada jendela di atas tangga. tangga terlihat dengan jelas, dan desain keseluruhan modern dan bersih. Tidak ada bahaya bagi orang-tunanetra karena tangga terlihat dengan jelas dan pegangan tangan terlihat." }
+  ],
+  "(33)": [
+    { "prediction": "Di depan terlihat lorong dengan seseorang berjalan menjauh dari kamera. Ada alat pemadam kebakaran dipasang di dinding di sisi kiri lorong. lantainya keramik, dan dindingnya dicat putih. Langit-langit memiliki beberapa lampu ditarik kembali. Tidak ada bahaya secara langsung untuk tunanetra, tetapi mereka harus berhati-hati dari pemadam api dan mempertahankan jarak yang aman dari itu." }
+  ],
+  "(34)": [
+    { "prediction": "Di depan terlihat lift dengan menyelesaikan logam dan tikar merah di pangkalan. Pintu lift tertutup, dan ada panel kontrol dengan tombol dan layar digital. Lantainya penuh dengan ubin gelap, dan ada tong sampah di sebelah lift. Tidak ada bahaya secara langsung untuk tunanetra, tetapi mereka harus berhati-hati ketika mendekati lift untuk menghindari tersandung tikar." }
+  ],
+  "(35)": [
+    { "prediction": "Di depan terlihat pintu kantor modern dengan pintu kaca dan bingkai hitam. Ada alat pemadam kebakaran dipasang di dinding ke kiri pintu. Lantainya dilapisi dengan kombinasi ubin hitam putih. Ruang tampak bersih dan dijaga dengan baik. Tidak ada bahaya secara langsung untuk tunanetra, karena pintu terbuka dan pemadam kebakaran jelas terlihat." }
+  ],
+  "(36)": [
+    { "prediction": "Di depan terlihat lorong dengan alat pemadam kebakaran dipasang di dinding. Ada tanda peringatan kuning di lantai dekat pintu, terlihat lantai basah. Lorong memiliki beberapa kursi dan pintu di akhir. Lantai tampak basah, yang bisa menimbulkan bahaya slip untuk tunanetra." }
+  ],
+  "(37)": [
+    { "prediction": "Di depan ini terlihat lorong yang panjang dan kosong dengan partisi kaca di sebelah kiri dan deretan kursi logam di sebelah kanan. lantainya keramik, dan dindingnya terbuka dengan beberapa jendela kecil. Ada alarm kebakaran merah di dinding. Lorong ini tampak terang dengan lampu langit-langit yang ditutup. Tidak ada bahaya secara langsung untuk tunanetra, tapi kursi diatur dengan cara yang mungkin menyebabkan bahaya tersandung." }
+  ],
+  "(38)": [
+    { "prediction": "Di depan terlihat tangga dengan pegangan logam di sisi kanan. lantainya keramik dengan pola berwarna terang. Ada beberapa orang di latar belakang, tetapi mereka tidak terlihat jelas. Area ini tampaknya dalam ruangan, mungkin di gedung umum atau kantor. Tidak ada bahaya secara langsung untuk tunanetra, karena pegangan tangan terlihat dan tangga terlihat dengan jelas." }
+  ],
+  "(39)": [
+    { "prediction": "Di depan ini terlihat jalur beraspal dengan pola tulang herring, diapit oleh pohon dan hijau. Ada pot tanaman dan tempat sampah kuning di sisi kiri. Tanah tampak basah, mungkin dari hujan baru-baru ini. Tidak ada bahaya secara langsung bagi orang-tunanetra, karena jalan terlihat dengan jelas dan tidak ada hambatan." }
+  ],
+  "(40)": [
+    { "prediction": "Di depan ini terlihat jalur aspal dengan kecil, bulat, pot batu di tengah. Jalur ini berbatasan dengan tepi batu, dan ada pohon dan hijau di kedua sisi. Tanahnya basah, mungkin dari hujan baru-baru ini. Tidak ada hambatan atau bahaya terlihat dalam gambar." }
+  ],
+  "(41)": [
+    { "prediction": "Di depan ini terlihat area luar modern dengan lorong tertutup. Ada pagar logam di kedua sisi jalan raya, menyediakan keselamatan. Tanah ini dilapisi dengan ubin besar berwarna terang. Ada beberapa meja dan kursi di latar belakang, menyarankan area tempat duduk. Area ini tampaknya dijaga dengan baik dan aman untuk orang-tunanetra." }
+  ],
+  "(42)": [
+    { "prediction": "Di depan ini terlihat area basah dan beraspal dengan dua kerucut oranye diletakkan di tanah. Ada pohon dan bangunan di latar belakang. Permukaan basah dan kehadiran kerucut terlihat bahwa area mungkin di bawah konstruksi atau sementara ditutup. tunanetra harus berhati-hati dari kondisi basah dan licin, serta potensi untuk hambatan tersembunyi atau puing-puing." }
+  ],
+  "(43)": [
+    { "prediction": "Di depan terlihat modern, ruang makan terbuka-udara dengan tabel dan bangku. Lantai ditutupi dengan kecil, kerikil putih, dan area ini terang dengan lampu gantung. Tidak ada bahaya yang terlihat untuk orang-tunanetra, karena ruang terlihat dengan jelas dan tabel yang berjarak merata." }
+  ],
+  "(44)": [
+    { "prediction": "Di depan ini terlihat jalan yang basah, berlumpur dengan genangan air dan puing-puing tersebar. Ada pohon dan bangunan di latar belakang. Jalannya tampak tidak rata dan berpotensi licin, yang bisa menimbulkan risiko bagi tunanetra." }
+  ],
+  "(45)": [
+    { "prediction": "Di depan ini terlihat satu set tangga dengan pagar logam. Tangganya hitam dan memiliki desain modern. Ada tanda di dinding di sebelah kiri tangga. Lantainya diikatkan dengan ubin putih. Tidak ada bahaya secara langsung untuk tunanetra, karena tangga terlihat dengan jelas dan pagar yang terlihat." }
+  ],
+  "(46)": [
+    { "prediction": "Di depan ini terlihat seseorang mengambil foto di sebuah taman seperti latar dengan jalan beraspal dan hijau. Tidak ada bahaya secara langsung untuk tunanetra dalam gambar ini." }
+  ],
+  "(47)": [
+    { "prediction": "Di depan ini terlihat seseorang berdiri di atas papan kayu yang sebagian terendam dalam air. Papan diletakkan di atas celah kecil di trotoar. Ada hidran api merah di dekat sini. Area ini tampaknya taman atau taman dengan hijau dan pohon-pohon. Airnya dangkal dan orang tampaknya menyeimbangkan papan. Tidak ada bahaya secara langsung untuk tunanetra, tetapi mereka harus berhati-hati dari air dan papan kayu." }
+  ],
+  "(48)": [
+    { "prediction": "Di depan ini terlihat kantor yang sibuk atau laboratorium dengan beberapa orang yang bekerja di meja dengan laptop. Ada kursi biru dan beberapa poster di dinding. lantainya keramik, dan ada beberapa alat elektronik dan peralatan di latar belakang. Pencahayaannya tampak terang. Tidak ada bahaya secara langsung bagi orang-tunanetra, tetapi mereka mungkin perlu menggunakan teknologi bantu atau meminta bantuan untuk menavigasi ruang." }
+  ],
+  "(49)": [
+    { "prediction": "Di depan ini terlihat ruang kerja dengan dua orang duduk di meja. Ada berbagai benda di meja, termasuk monitor komputer, keyboard, dan beberapa benda kecil lainnya. Ruangan ini tampak seperti kantor biasa atau ruang belajar. Tidak ada bahaya secara langsung untuk tunanetra dalam gambar ini." }
+  ],
+  "(50)": [
+    { "prediction": "Di depan terlihat kamar mandi dengan wastafel, cermin, dan beberapa toilet di meja. Ada cermin di dinding dan pintu ke kiri. Kamar mandi terlihat bersih dan teratur. Tidak ada bahaya secara langsung untuk tunanetra, tapi pintu sedikit terbuka, yang bisa menimbulkan bahaya tersandung." }
   ]
 }
